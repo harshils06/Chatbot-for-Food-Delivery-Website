@@ -1,7 +1,4 @@
 # Chatbot for Food Delivery Website
-
-![Chatbot Gif](chatbot_example.gif)
-
 This project implements a chatbot to enhance user experience on a food delivery website. The chatbot is built using Google Dialogflow for natural language understanding and interaction. Python FastAPI is employed to connect the chatbot with the backend database, facilitating seamless order management and customer support.
 
 ## Features
